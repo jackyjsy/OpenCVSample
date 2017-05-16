@@ -1,1 +1,0 @@
-/home/songyao/Desktop/OpenCVSample/build/CMakeFiles/demo.dir
