@@ -5,13 +5,8 @@ Generate static library files
 
 # How to use
 $ mkdir build 
-
 $ cd build 
-
 $ cmake .. 
-
 $ make 
-
 $ cd demo 
-
 $ ./demo 
