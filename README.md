@@ -5,6 +5,8 @@ Group test and library code into folders
 
 Generate static library files and link to executable
 
+Test on both Windows and Ubuntu with OpenCV 3.2
+
 # How to use
 $ mkdir build 
 
